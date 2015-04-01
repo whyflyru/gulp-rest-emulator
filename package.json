@@ -1,5 +1,5 @@
 {
-  "name": "gulp-rest-emulator",
+  "name": "gulp-rest-emulator-whyfly",
   "version": "0.0.3",
   "description": "Gulp plugin use Rest Emulator",
   "main": "index.js",
