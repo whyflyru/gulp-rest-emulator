@@ -1,5 +1,5 @@
 var es = require('event-stream');
-var restEmulator = require('rest-emulator');
+var restEmulator = require('rest-emulator-whyfly');
 var express = require('express');
 var gutil = require('gulp-util');
 var _ = require('lodash');
